@@ -6,3 +6,4 @@
 - [APE08: Inferencia Estadística: Estimación de Parámetros e Intervalos de Confianza (Z y T de Student)](APE_009_Intervalos.ipynb)
 - [APE09: Inferencia Estadística: Pruebas de Hipótesis Paramétricas (Z y T) y Análisis del Valor-p](APE_010_Hipotesis.ipynb)
 - [APE10: Inferencia Estadística Multigrupo: Análisis de Varianza (ANOVA de 1 factor) y Pruebas Post-Hoc (Tukey)](ANOVA__APE.ipynb)
+[⬅️ Volver al inicio](Inicio.md)
