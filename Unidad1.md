@@ -6,3 +6,5 @@
 - APE03: [Variables Aleatorias Discretas y Continuas](APE03VariablesAleatoria_DiscretCont.pdf)
 - APE004: [Momentos Estadísticos y Análisis de Tendencia Central con Python](APE004.ipynb)
 - APE05: [Distribuciones Discretas Notables.](APE05.ipynb)
+
+[⬅️ Volver al inicio](Inicio.md)
