@@ -2,7 +2,7 @@
 
 ## 📁 Portafolio Digital de Aprendizaje
 
-# 🧩 [Unidad 1]
+# 🧩 Unidad 1
 ### ■ [Ver contenidos de la Unidad](Unidad1.md)
 
 # ⚙️ Unidad 2
