@@ -1,6 +1,6 @@
 ## 🧩 Unidad 1
 ### ■ Actividades práctico experimental
-- APE00: Fundamentos de Probabilidad y Espacios Muestrales
+- APE00: [Fundamentos de Probabilidad y Espacios Muestrales](APE00FundamentosdeProbabilidad.pdf)
 - APE01: Variables Aleatorias y Distribuciones de Probabilidad
 - APE02 Distribuciones Muestrales y Teorema del Limite Central
 - APE03: Variables Aleatorias Discretas y Continuas
